@@ -3,6 +3,8 @@ A Google Cardboard VR project using the rear camera preview. Powered by NatCam v
 
 Spot the spinning cube!
 
+![NatCam VR Example](/NCVR.png?raw=true "")
+
 # Setup Instructions
 - Download the Google Cardboard SDK for Unity here: https://developers.google.com/cardboard/unity/download
 - Import the Cardboard SDK into the project
