@@ -3,7 +3,7 @@ using NatCamU;
 
 public class VRCam : UnitygramBase {
 	
-	[Header("Demo")]
+	[Header("VR Demo")]
 	public Transform cube;
 		
 	// Use this for initialization
