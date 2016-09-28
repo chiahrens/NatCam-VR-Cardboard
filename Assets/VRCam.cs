@@ -5,12 +5,6 @@ public class VRCam : UnitygramBase {
 	
 	[Header("VR Demo")]
 	public Transform cube;
-		
-	// Use this for initialization
-	public override void Start () {
-		//Start Unitygram Base
-		base.Start();
-	}
 	
 	// Update is called once per frame
 	void Update () {
